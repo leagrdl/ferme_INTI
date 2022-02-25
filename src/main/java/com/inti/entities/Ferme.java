@@ -6,6 +6,7 @@ public class Ferme {
 	private Long idFerme;
 	private String nom;
 	private Date date;
+	private String address;
 	
 	public Ferme() {
 	}
